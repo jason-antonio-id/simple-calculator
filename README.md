@@ -1,4 +1,4 @@
-🧮 Calculator Project
+🧮 Calculator Project!
 Welcome to my first ever programming project — a simple calculator built to practice the basics!
 
 🚀 Features
